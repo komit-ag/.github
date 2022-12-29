@@ -1,6 +1,6 @@
 
 ## Related issues
-_List all related issues or select them in the «Development» section in the right sidebar if they should be closed if the pull request gets merged._
+_List all related issues or select them in the «Development» section in the right sidebar if they should be closed when the pull request gets merged._
 
 - 
 
