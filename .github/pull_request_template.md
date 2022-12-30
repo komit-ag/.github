@@ -5,7 +5,7 @@ _List all related issues or select them in the «Development» section in the ri
 - 
 
 ## Solution
-- [ ] I have implemented a optimal solution.
+- [ ] I have implemented an optimal solution.
 - [ ] I had to made compromisses.
     - _If so, please fill out the following subsection._
 
