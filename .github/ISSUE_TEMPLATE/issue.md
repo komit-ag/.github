@@ -1,7 +1,7 @@
 ---
 name: Issue
 about: Template for generic issues.
-title: 'Issue: '
+title: ''
 labels: Issue
 assignees: ''
 
