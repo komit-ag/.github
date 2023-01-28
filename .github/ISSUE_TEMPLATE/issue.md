@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-## Motivation
+### Motivation
 
-## Proposed solution
+### Proposed solution
 
-### Drawbacks
+#### Drawbacks
 
-### Rational and alternatives
+#### Rational and alternatives
 
-### Implementation
+#### Implementation
 
-## Unresolved questions
+### Unresolved questions
 	
-## Related issues
+### Related issues
 
-## References
+### References
